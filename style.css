@@ -57,7 +57,7 @@
 }
 #blog{
     margin-top: 50px;
-    background-image: url("albert einstein.jpg");
+    background-image: url("alberteinstein.jpg");
 }
 #body {
     background-color: black;
@@ -160,9 +160,6 @@
 #true {
     font-size: 100px;
 }
-#false {
-    font-size: 100px;
-}
 .true :hover {
     color: green;
 }
@@ -212,23 +209,20 @@
 #scorediv {
     display: flex;
     justify-content: center;
-    padding: 100px;
+    padding-bottom: 50px;
 }
 #scorediv1 {
     display: flex;
     flex-direction: row;
-    background-color: rgb(255, 187, 255);
+    justify-content: center;
+    font-size: 30px;
+    width: 500px;
+    background-color: rgb(248, 248, 212);
     border: 3px solid;
+    display: none;
 }
-#o {
+#end1 {
     padding-left: 10px;
-}
-#link {
-    text-decoration: underline rgb(255, 187, 255);
-}
-#link:hover {
-    text-decoration: underline rgb(255, 109, 255);
-    transition: 1s;
 }
 #soon {
     background-color: rgb(222, 1, 1);
@@ -240,4 +234,247 @@
 }
 #sooon {
     text-decoration: underline rgb(64, 189, 224);
+}
+#true1 {
+    font-size: 100px;
+}
+#true2 {
+    font-size: 100px;
+}
+#true3 {
+    font-size: 100px;
+}
+#true4 {
+    font-size: 100px;
+}
+#true5 {
+    font-size: 100px;
+}
+#true6 {
+    font-size: 100px;
+}
+#true7 {
+    font-size: 100px;
+}
+#true8 {
+    font-size: 100px;
+}
+#true9 {
+    font-size: 100px;
+}
+#true10 {
+    font-size: 100px;
+}
+#true11 {
+    font-size: 100px;
+}
+#true12 {
+    font-size: 100px;
+}
+#true13 {
+    font-size: 100px;
+}
+#true14 {
+    font-size: 100px;
+}
+#true15 {
+    font-size: 100px;
+}
+#true16 {
+    font-size: 100px;
+}
+#true17 {
+    font-size: 100px;
+}
+#true18 {
+    font-size: 100px;
+}
+#true19 {
+    font-size: 100px;
+}
+#true20 {
+    font-size: 100px;
+}
+#true21 {
+    font-size: 100px;
+}
+#true22 {
+    font-size: 100px;
+}
+#true23 {
+    font-size: 100px;
+}
+#true24 {
+    font-size: 100px;
+}
+#true25 {
+    font-size: 100px;
+}
+#true26 {
+    font-size: 100px;
+}
+#true27 {
+    font-size: 100px;
+}
+#true28 {
+    font-size: 100px;
+}
+#true29 {
+    font-size: 100px;
+}
+#true30 {
+    font-size: 100px;
+}
+#true31 {
+    font-size: 100px;
+}
+#true32 {
+    font-size: 100px;
+}
+#true33 {
+    font-size: 100px;
+}
+#true34 {
+    font-size: 100px;
+}
+#true35 {
+    font-size: 100px;
+}
+#true36 {
+    font-size: 100px;
+}
+#true37 {
+    font-size: 100px;
+}
+#true38 {
+    font-size: 100px;
+}
+#false1 {
+    font-size: 100px;
+}
+#false2 {
+    font-size: 100px;
+}
+#false3 {
+    font-size: 100px;
+}
+#false4 {
+    font-size: 100px;
+}
+#false5 {
+    font-size: 100px;
+}
+#false6 {
+    font-size: 100px;
+}
+#false7 {
+    font-size: 100px;
+}
+#false8 {
+    font-size: 100px;
+}
+#false9 {
+    font-size: 100px;
+}
+#false10 {
+    font-size: 100px;
+}
+#false11 {
+    font-size: 100px;
+}
+#false12 {
+    font-size: 100px;
+}
+#false13 {
+    font-size: 100px;
+}
+#false14 {
+    font-size: 100px;
+}
+#false15 {
+    font-size: 100px;
+}
+#false16 {
+    font-size: 100px;
+}
+#false17 {
+    font-size: 100px;
+}
+#false18 {
+    font-size: 100px;
+}
+#false19 {
+    font-size: 100px;
+}
+#false20 {
+    font-size: 100px;
+}
+#false21 {
+    font-size: 100px;
+}
+#false22 {
+    font-size: 100px;
+}
+#false23 {
+    font-size: 100px;
+}
+#false24 {
+    font-size: 100px;
+}
+#false25 {
+    font-size: 100px;
+}
+#false26 {
+    font-size: 100px;
+}
+#false27 {
+    font-size: 100px;
+}
+#false28 {
+    font-size: 100px;
+}
+#false29 {
+    font-size: 100px;
+}
+#false30 {
+    font-size: 100px;
+}
+#false31 {
+    font-size: 100px;
+}
+#false32 {
+    font-size: 100px;
+}
+#false33 {
+    font-size: 100px;
+}
+#false34 {
+    font-size: 100px;
+}
+#false35 {
+    font-size: 100px;
+}
+#false36 {
+    font-size: 100px;
+}
+#false37 {
+    font-size: 100px;
+}
+#false38 {
+    font-size: 100px;
+}
+#hide1 {
+    text-align: center;
+    font-size: 25px;
+    display: none;
+}
+#hide2 {
+    text-align: center;
+    font-size: 25px;
+    display: none;
+}
+#hide3 {
+    text-align: center;
+    font-size: 25px;
+    display: none;
 }
